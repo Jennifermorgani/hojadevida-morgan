@@ -1,0 +1,85 @@
+*{
+    font-family: 'Dancing Script', cursive;
+}
+
+body{
+    margin: 0%;
+}
+
+.informacion{
+    width: 100%;
+    height: 60vh;
+    background:#577383;
+}
+
+.informacion h1{
+    font-size: 50px;
+    text-align: center;
+    color: #512941;
+    margin: 0%;
+}
+
+.informacion img{
+    width: 200px;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+}
+
+.informacion h2{
+    text-align: center;
+    color: white;
+    background: #512941;
+    width: 200px;
+    margin: auto;
+}
+
+
+.informacion ul{
+    width: 100%;
+    text-align: center;
+}
+
+
+.informacion ul li{
+    display: inline-block;
+    width: 150px;
+    background: #725A7C;
+    padding: 10px;
+    margin: auto;
+    border: solid #512A62 ;
+}
+
+.skills{
+    background: #512941 ;
+    height: 50vh;
+}
+
+.skills h3{
+    margin: 0%;
+    text-align: center;
+    font-size: 40px;
+    color: #577383 ;
+    letter-spacing: 4px;
+}
+
+.skills ul{
+    width: 500px;
+    margin: auto;
+}
+
+.skills ul li{
+    list-style: none;
+    margin: auto;
+    padding: 15px;
+    font-size: 20px;
+    font-style: normal;
+    display: inline-block;
+    
+}
+
+.skills ul li img{
+    width: 50px;
+    display: block;
+    margin: auto;
+}
